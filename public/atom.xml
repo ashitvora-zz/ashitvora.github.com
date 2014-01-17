@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Alfanso]]></title>
+  <link href="http://alfanso.com/atom.xml" rel="self"/>
+  <link href="http://alfanso.com/"/>
+  <updated>2014-01-17T20:35:33+05:30</updated>
+  <id>http://alfanso.com/</id>
+  <author>
+    <name><![CDATA[Ashit Vora]]></name>
+    <email><![CDATA[ashit.vora@alfanso.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
