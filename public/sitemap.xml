@@ -1,12 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://alfanso.com/2014-01-17-hello-world.html</loc>
+        <lastmod>2014-01-17T21:06:05+05:30</lastmod>
+    </url>
+    <url>
         <loc>http://alfanso.com/blog/archives/</loc>
-        <lastmod>2014-01-17T20:28:47+05:30</lastmod>
+        <lastmod>2014-01-17T21:06:05+05:30</lastmod>
     </url>
     <url>
         <loc>http://alfanso.com/</loc>
-        <lastmod>2014-01-17T20:28:47+05:30</lastmod>
+        <lastmod>2014-01-17T21:06:05+05:30</lastmod>
     </url>
     <url>
         <loc>http://alfanso.com/robots.txt</loc>
